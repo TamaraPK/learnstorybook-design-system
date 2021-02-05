@@ -18,3 +18,114 @@ Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-syst
   code: 'MODULE_NOT_FOUND',
   requireStack: []
 }
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+node:internal/modules/cjs/loader:928
+  throw err;
+  ^
+
+Error: Cannot find module '/vagrant/storybook_project/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:769:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
