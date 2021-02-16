@@ -4,8 +4,9 @@ Found & ignored ./src/stories/button.css ; has ignored extension
 Found & ignored ./src/stories/header.css ; has ignored extension
 Found & ignored ./src/stories/page.css ; has ignored extension
 Found & ignored ./storybook-static/static/css/main.cc6f50a5.chunk.css ; has ignored extension
+Found & ignored ./yarn-error.log ; is listed in .gitignore
 
-Starting: build-storybook -- --output-dir /tmp/chromatic--1791-ckxu2FsTHtMI
+Starting: build-storybook -- --output-dir /tmp/chromatic--6095-x16bwJWNDrWe
 node:internal/modules/cjs/loader:928
   throw err;
   ^
