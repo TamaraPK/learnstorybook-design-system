@@ -1,3 +1,5 @@
+// src/Avatar.stories.js
+
 import React from "react";
 
 import { Avatar } from "./Avatar";
@@ -5,6 +7,9 @@ import { Avatar } from "./Avatar";
 export default {
   title: "Design System/Avatar",
   component: Avatar,
+  parameters: {
+    componentSubtitle: 'Displays an image that represents a user or organization',
+  },
 };
 
 export const Standard = (args) => <Avatar {...args} />;
@@ -22,9 +27,17 @@ export const Sizes = (args) => (
     <Avatar {...args} size="tiny" />
   </div>
 );
+
 Sizes.args = {
   username: "Tom Coleman",
   src: "https://avatars2.githubusercontent.com/u/132554",
+};
+
+Sizes.parameters = {
+  docs: {
+    // The story now contains a description
+    storyDescription: '4 sizes are supported.',
+  },
 };
 
 export const Initials = (args) => (

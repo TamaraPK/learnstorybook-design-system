@@ -5,7 +5,7 @@ Found & ignored ./src/stories/header.css ; has ignored extension
 Found & ignored ./src/stories/page.css ; has ignored extension
 Found & ignored ./storybook-static/static/css/main.cc6f50a5.chunk.css ; has ignored extension
 
-Starting: build-storybook -- --output-dir /tmp/chromatic--4148-jLJLjKylBJ1x
+Starting: build-storybook -- --output-dir /tmp/chromatic--1791-ckxu2FsTHtMI
 node:internal/modules/cjs/loader:928
   throw err;
   ^
