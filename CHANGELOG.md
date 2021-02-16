@@ -1,5 +1,17 @@
 # v0.2.2 (Tue Feb 16 2021)
 
+#### ⚠️ Pushed to `main`
+
+- Modified .gitignore ([@TamaraPK](https://github.com/TamaraPK))
+
+#### Authors: 1
+
+- [@TamaraPK](https://github.com/TamaraPK)
+
+---
+
+# v0.2.2 (Tue Feb 16 2021)
+
 
 
 ---
