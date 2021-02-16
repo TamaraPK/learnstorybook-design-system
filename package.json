@@ -1,6 +1,5 @@
 {
-  "scope": "tamarapk",
-  "name": "learnstorybook-design-system",
+  "name": "@tamarapk/learnstorybook-design-system",
   "version": "0.1.9",
   "private": false,
   "dependencies": {
@@ -51,5 +50,17 @@
     "@storybook/react": "^6.1.17",
     "chromatic": "^5.6.1",
     "prettier": "^2.2.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamaraPK/learnstorybook-design-system.git"
+  },
+  "author": "TamaraPK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamaraPK/learnstorybook-design-system/issues"
+  },
+  "homepage": "https://github.com/TamaraPK/learnstorybook-design-system#readme"
 }
