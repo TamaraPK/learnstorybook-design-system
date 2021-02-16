@@ -1,6 +1,6 @@
 {
   "name": "@tamarapk/learnstorybook-design-system",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "private": false,
   "dependencies": {
     "@babel/runtime": "^7.12.13",
